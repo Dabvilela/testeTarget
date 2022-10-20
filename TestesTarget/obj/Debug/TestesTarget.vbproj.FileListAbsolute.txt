@@ -1,0 +1,16 @@
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\bin\Debug\TestesTarget.exe.config
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\bin\Debug\TestesTarget.exe
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\bin\Debug\TestesTarget.pdb
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\bin\Debug\TestesTarget.xml
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\obj\Debug\TestesTarget.vbproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\obj\Debug\TestesTarget.Form_Inicial.resources
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\obj\Debug\TestesTarget.Resources.resources
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\obj\Debug\TestesTarget.Form_Fibonacci.resources
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\obj\Debug\TestesTarget.vbproj.GenerateResource.cache
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\obj\Debug\TestesTarget.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\obj\Debug\TestesTarget.exe
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\obj\Debug\TestesTarget.xml
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\obj\Debug\TestesTarget.pdb
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\obj\Debug\TestesTarget.Form_XML.resources
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\obj\Debug\TestesTarget.Form_FaturamentoMensalEstado.resources
+C:\Users\Daniel\Documents\Projects\VBNet\testeTarget\TestesTarget\obj\Debug\TestesTarget.Form_inverterString.resources
